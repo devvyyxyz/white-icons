@@ -14,7 +14,7 @@ To use the emojis, simply download the desired file and upload it to the platfor
 
 | Emoji | File Name | Description | Preview |
 |-------|-----------|-------------|---------|
-| 😴 | [MeowEmoji(1)](gif/MeowEmoji_%20(1).gif) | Sleeping | <img src="gif/MeowEmoji_%20(1).gif" width="20%" height="20%"> |
+| 😴 | [MeowEmoji(1)](gif/MeowEmoji_%20(1).gif) | Gift | <img src="32x/gift_icon_white.png" width="20%" height="20%"> |
 | 🤤 | [MeowEmoji(2)](gif/MeowEmoji_%20(2).gif) | Drooling | <img src="gif/MeowEmoji_%20(2).gif" width="20%" height="20%"> |
 | 😵 | [MeowEmoji(3)](gif/MeowEmoji_%20(3).gif) | Dizzy Face | <img src="gif/MeowEmoji_%20(3).gif" width="20%" height="20%"> |
 | 🥴 | [MeowEmoji(4)](gif/MeowEmoji_%20(4).gif) | Woozy Face | <img src="gif/MeowEmoji_%20(4).gif" width="20%" height="20%"> |
